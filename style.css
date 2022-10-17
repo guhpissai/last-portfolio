@@ -11,13 +11,13 @@ body {
     border-radius: 50px;
     width: 175px;
     position: absolute;
-    left: 1000px;
+    left: 800px;
     top: 80px;
 }
 
 h1, h2, h3 {
     color: rgb(231, 231, 231);
-    margin-left: 200px;
+    margin-left: 80px;
 }
 
 .name-color {
@@ -25,6 +25,7 @@ h1, h2, h3 {
 }
 
 .background-header {
+    width: 100%;
     background-color: rgb(39, 39, 39);
     padding-top: 50px;
     padding-bottom: 50px;
@@ -33,7 +34,7 @@ h1, h2, h3 {
 .title-name {
     color: rgb(196, 55, 0);
     font-size: 50px;
-    margin-left: 200px;
+    margin-left: 80px;
 }
 
 .about-me {
@@ -44,15 +45,15 @@ h1, h2, h3 {
     font-size: 16px;
     max-width: 100px;
     text-align: center;
-    margin-left: 200px;
+    margin-left: 80px;
     margin-bottom: 100px;
 }
 
 p {
     color: #cccccc;
     font-size: 18px;
-    margin-left: 200px;
-    max-width: 25%;
+    margin-left: 80px;
+    max-width: 75%;
 }
 
 .height-space {
@@ -63,7 +64,7 @@ p {
     line-height: 40px;
     color: #cccccc;
     text-decoration: none;
-    margin-left: 200px;
+    margin-left: 80px;
 }
 
 .button {
