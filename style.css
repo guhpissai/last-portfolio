@@ -8,18 +8,16 @@ body {
 }
 
 .picture {
-    border-radius: 400px;
-    width: 150px;
+    border-radius: 50px;
+    width: 175px;
     position: absolute;
-    left: 900px;
+    left: 1000px;
     top: 80px;
 }
-
 
 h1, h2, h3 {
     color: rgb(231, 231, 231);
     margin-left: 200px;
-
 }
 
 .name-color {
@@ -55,6 +53,10 @@ p {
     font-size: 18px;
     margin-left: 200px;
     max-width: 25%;
+}
+
+.height-space {
+    padding: 40px 0;
 }
 
 .line-space {
